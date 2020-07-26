@@ -86,4 +86,4 @@ Join Finnhub's dicussion on:
 - [Finnhub's Reddit](https://www.reddit.com/r/FinnhubAPI/comments/hjvm6b/finnhub_api_the_new_standard_for_financial_api/)
 - [Finnhub's Kickstarter](https://www.kickstarter.com/projects/finnhub-stock-api/finnhub-free-stock-api-for-investors/description)  to help raise awareness amongst "builders" community.
 - [Finnhub's Indiegogo](https://www.indiegogo.com/projects/finnhub-institutional-grade-stock-api/x/19059850#/) to help raise awareness amongst "builders" community.
-[Finnhub featured on Columbia University's quant community page](http://www.columbia.edu/~tmd2142/free-stock-api.html)
+- [Finnhub featured on Columbia University's quant community page](http://www.columbia.edu/~tmd2142/free-stock-api.html)
