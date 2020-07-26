@@ -4,6 +4,7 @@ Finnhub is an American company with people working in New York, Mumbai, Sydney, 
 
 With the mission of democratizing financial data, Finnhub is proud to offer a FREE retail-focus realtime API for stocks, forex and cryptocurrency. With this API, you can access realtime market data from global stock exchanges, 10 forex brokers, and 15+ crypto exchanges. Finnhub also provides institutional-grade alternative and fundamental data for global companies through our stock API. Finnhub is ranked number 1 on Towards Data Science [stock API guide](https://medium.com/@andy.m9627/the-ultimate-guide-to-stock-market-apis-for-2020-1de6f55adbb). See why Finnhub is the leader in financial data APIs with this comparision.
 
+![Finnhub Stock API](https://static.finnhub.io/img/Screen%20Shot%202020-07-25%20at%207.47.01%20PM.png)
 
 Data provided on [Finnhub Stock API](https://finnhub.io/):
 
