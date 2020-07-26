@@ -78,3 +78,12 @@ print(finnhub_client.aggregate_indicator('AAPL', 'D'))
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://finnhub.io/docs/api#company-profile)
+Join Finnhub's dicussion on:
+
+[Finnhub's Twitter](https://twitter.com/Finnhub_io)
+[Finnhub's Facebook](https://www.facebook.com/Finnhub-109587983789885)
+[Finnhub's Linkedin](https://www.linkedin.com/company/51658500)
+[Finnhub's Reddit](https://www.reddit.com/r/FinnhubAPI/comments/hjvm6b/finnhub_api_the_new_standard_for_financial_api/)
+[Finnhub's Kickstarter](https://www.kickstarter.com/projects/finnhub-stock-api/finnhub-free-stock-api-for-investors/description)  to help raise awareness amongst "builders" community.
+[Finnhub's Indiegogo](https://www.indiegogo.com/projects/finnhub-institutional-grade-stock-api/x/19059850#/) to help raise awareness amongst "builders" community.
+[Finnhub featured on Columbia University's quant community page](http://www.columbia.edu/~tmd2142/free-stock-api.html)
