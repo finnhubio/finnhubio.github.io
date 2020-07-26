@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+## Finnhub Stock API - Global fundamentals, market data and alternative data
 
-You can use the [editor on GitHub](https://github.com/finnhubio/finnhubio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Finnhub is an American company with people working in New York, Mumbai, Sydney, and Ho Chi Minh to source, clean and serve the right financial data to our customers. With data centers around the globe and a diverse workforce, Finnhub provide high quality data with easy access to the biggest clients in the industry ranging from hedge funds, mutual funds to investment banks and S&P companies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With the mission of democratizing financial data, Finnhub is proud to offer a FREE retail-focus realtime API for stocks, forex and cryptocurrency. With this API, you can access realtime market data from global stock exchanges, 10 forex brokers, and 15+ crypto exchanges. Finnhub also provides institutional-grade alternative and fundamental data for global companies through our stock API. Finnhub is ranked number 1 on Towards Data Science stock API guide. See why Finnhub is the leader in financial data APIs with this comparision.
+
+
+
+Data provided on [Finnhub Stock API](https://finnhub.io/):
+
+# Global Fundamental Data:
+
+  - Global Company Profile
+
+  - Company Executives
+
+  - Company Ownership
+
+  - Standardized financial statements
+
+  - Financials As Reported
+
+  - Dividends
+
+  - IPO calendar
+
+# Market Data
+
+  - Real-time stock API
+
+  - Tick Data
+
+  - Forex
+
+  - Crypto
+
+# Estimates
+
+  - Price Target
+
+  - Recommendation trends
+
+  - EPS estimates
+
+  - Revenue estimates
+
+  - Earnings Calendar
+
+# Alternative Data
+
+  - Earnings call transcripts with audio from 2000
+
+  - Covid-19 data
+
+  - Real-estate pricing
+
+  - Merger and Acquisitions for public and private market
+
+  - Supply chain
+
+With global coverage and deep historical data, [Finnhub Stock API](https://finnhub.io/) provides an unparalleled API for global investors, investment firms and fintech startups.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+import finnhub
 
-```markdown
-Syntax highlighted code block
+# Setup client
+finnhub_client = finnhub.Client(api_key="YOUR API KEY")
 
-# Header 1
-## Header 2
-### Header 3
+# Stock candles
+res = finnhub_client.stock_candles('AAPL', 'D', 1590988249, 1591852249)
+print(res)
 
-- Bulleted
-- List
+#Convert to Pandas Dataframe
+import pandas as pd
+print(pd.DataFrame(res))
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Aggregate Indicators
+print(finnhub_client.aggregate_indicator('AAPL', 'D'))
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/finnhubio/finnhubio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://finnhub.io/docs/api#company-profile)
