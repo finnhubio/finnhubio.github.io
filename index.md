@@ -57,7 +57,7 @@ Data provided on [Finnhub Stock API](https://finnhub.io/):
 
   - Supply chain
 
-With global coverage and deep historical data, [Finnhub Stock API](https://finnhub.io/) provides an unparalleled API for global investors, investment firms and fintech startups.
+With global coverage and deep historical data, [Finnhub Stock API](https://finnhub.io/) provides an unparalleled API for global investors, investment firms and fintech startups. A tutorial to build your own charts [powered by Finnhub](https://medium.com/@andy.m9627/build-your-own-tradingview-chart-for-global-stock-markets-right-on-your-site-with-tradingview-js-9e09252ed3b0)
 
 ### Markdown
 ```
