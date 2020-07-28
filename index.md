@@ -89,6 +89,5 @@ Join Finnhub's dicussion on:
 - [Finnhub's Indiegogo](https://www.indiegogo.com/projects/finnhub-institutional-grade-stock-api/x/19059850#/) to help raise awareness amongst "builders" community.
 - [Finnhub featured on Columbia University's quant community page](http://www.columbia.edu/~tmd2142/free-stock-api.html)
 - [Finnhub - earnings call transcripts analysis](http://www.columbia.edu/~tmd2142/finnhub-api-earnings-call-transcripts-analysis.html)
-- [Finnhub kickstarter campaign to raise awareness](https://www.kickstarter.com/projects/finnhub-stock-api/finnhub-free-stock-api-for-investors)
 - [Finnhub used by university of South Carolina researchers](http://people.stat.sc.edu/tqdo/realtime-stock-api.html)
 - [Finnhub used by university of NYU researchers](https://wp.nyu.edu/finnhub/stock-api-guide/)
